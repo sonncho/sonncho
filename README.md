@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend Developer<br>🌱 I’m currently learning mongoDB and Node.js<br>⚡ Fun fact I hate trouble, but I'm persistent
+🔭 I’m currently working on Frontend Developer<br>🌱 I’m currently learning mysql and NestJS<br>⚡ Fun fact I hate trouble, but I'm persistent
 
 
 # 💻 Tech Stack:
